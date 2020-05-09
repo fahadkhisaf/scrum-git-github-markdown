@@ -11,7 +11,7 @@ Scrum is executed in what are called sprints, or short iterations of work lastin
 
 - Sprint retrospective: This is when the team reviews their work, identifying what they did well and what didn’t go as planned, so they can make the next sprint better.
 
-###SCRUM artifacts
+##SCRUM artifacts
 
 In Scrum, artifacts are “information radiators” and they serve to capture the shared understanding of the team at a particular point in time. Scrum fameworks defines 3 essential artifacts.
 
@@ -21,7 +21,7 @@ In Scrum, artifacts are “information radiators” and they serve to capture th
 
 - Each Sprint the development team produces potentially shippable product increment.  This product increment must align to the development team’s “Definition of Done” and this increment must be acceptable by the Product Owner.
 
-####SCRUM roles
+##SCRUM roles
 
 The three SCRUM roles are as follows:
 
