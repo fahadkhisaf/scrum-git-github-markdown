@@ -1,6 +1,6 @@
-#SCRUM - artifacts, cermonies and roles
+# SCRUM - artifacts, cermonies and roles
 
-##SCRUM cermonies
+# SCRUM cermonies
 Scrum is executed in what are called sprints, or short iterations of work lasting usually no more than two weeks. A sprint employs four different scrum ceremonies to ensure proper execution: sprint planning, daily scrum, sprint review and sprint retrospective. These scrum ceremonies are outlined below:
 
 - sprint planning: This is where the team meets and decides what they need to complete in the coming sprint
@@ -11,7 +11,7 @@ Scrum is executed in what are called sprints, or short iterations of work lastin
 
 - Sprint retrospective: This is when the team reviews their work, identifying what they did well and what didn’t go as planned, so they can make the next sprint better.
 
-##SCRUM artifacts
+# SCRUM artifacts
 
 In Scrum, artifacts are “information radiators” and they serve to capture the shared understanding of the team at a particular point in time. Scrum fameworks defines 3 essential artifacts.
 
@@ -21,7 +21,7 @@ In Scrum, artifacts are “information radiators” and they serve to capture th
 
 - Each Sprint the development team produces potentially shippable product increment.  This product increment must align to the development team’s “Definition of Done” and this increment must be acceptable by the Product Owner.
 
-##SCRUM roles
+# SCRUM roles
 
 The three SCRUM roles are as follows:
 
